@@ -1,6 +1,6 @@
 # Greenhouse Gas Emissions Analysis
 
-![Emissions by Country](../figures/extract.jpg)
+<img src='https://github.com/Exploratory-Data-Analyses/greenhouse-gas-emission-analysis/blob/main/figures/extract.jpg'>
 
 ## Overview
 
