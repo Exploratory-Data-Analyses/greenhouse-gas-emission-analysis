@@ -106,5 +106,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-This `README.md` provides a comprehensive overview of the Greenhouse Gas Emissions Analysis project, outlining the steps 
-involved in data preparation, visualization, and predictive modeling without delving into specific code details.
+The conversation continues on [Kaggle](https://www.kaggle.com/code/mrowurakwarteng/greenhouse-gas-emissions-analysis)
