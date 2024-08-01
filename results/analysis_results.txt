@@ -1,0 +1,24 @@
+race_count: race
+White                 27816
+Black                  3124
+Asian-Pac-Islander     1039
+Amer-Indian-Eskimo      311
+Other                   271
+Name: count, dtype: int64
+
+avg_men_age: 39.43354749885268
+
+BS_degree: 16.45
+
+advanced_edu_gt_50k: 46.54
+
+without_advanced_edu_gt_50k: 53.46
+
+min_work_hours: 1
+
+people_min_hours: 10.0
+
+rich_country: Iran
+
+rich_indian_job: Prof-specialty
+
