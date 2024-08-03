@@ -41,7 +41,7 @@ emissions using a Random Forest model.
 To set up the environment for this project, install the required Python packages using:
 
 ```bash
-pip install pandas matplotlib scikit-learn numpy janitor
+pip install requirements.txt
 ```
 
 ## Usage
